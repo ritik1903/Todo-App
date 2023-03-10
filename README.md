@@ -8,7 +8,6 @@ A to-do list is a simple prioritized list of the tasks a person must complete. P
   - [Screenshot](#screenshot)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
@@ -19,8 +18,8 @@ It is a simple TODO application using NodeJS and MongDB. where a user of this ap
 
 ### Screenshot
 
-![](images/ss.png)
-![](images/edit.png)
+![](images/ss.PNG)
+![](images/edit.PNG)
 
 ## My process
 
