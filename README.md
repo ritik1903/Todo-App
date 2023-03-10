@@ -19,8 +19,8 @@ It is a simple TODO application using NodeJS and MongDB. where a user of this ap
 
 ### Screenshot
 
-![](images/image1.png)
-![](images/Screenshot.png)
+![](images/ss.png)
+![](images/edit.png)
 
 ## My process
 
